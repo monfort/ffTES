@@ -1,3 +1,9 @@
+/*
+    * ffTES - Implementation of Time Entropy Signature (TES) algorithm on audio files.
+    * Distributed under the LGPL License, see accompanying LICENSE
+    * (C) Copyright 2014 Monfort Software Engineering Ltd. http://monfort.co.il
+*/ 
+
 #include "decoder.h"
 
 #define MIN(a,b) ((a)<(b)?(a):(b))
