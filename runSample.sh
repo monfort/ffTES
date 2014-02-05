@@ -1,5 +1,5 @@
-OUTPUT1=$(./DecAndCalcTES ~/DecAndCalcTES/tx.mp3)
-OUTPUT2=$(./DecAndCalcTES ~/DecAndCalcTES/tx.flac)
+OUTPUT1=$(./ffTES ./tx.mp3)
+OUTPUT2=$(./ffTES ./tx.flac)
 
 OUTPUT_ARRRAY1=($OUTPUT1)
 OUTPUT_ARRRAY2=($OUTPUT2)

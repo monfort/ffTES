@@ -1,6 +1,6 @@
 #!/usr/bin/make
 CC = gcc
-EXEC = DecAndCalcTES
+EXEC = ffTES
 all: $(EXEC) demo
 
 $(EXEC): main.c decoder.c
